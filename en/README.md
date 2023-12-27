@@ -11,6 +11,8 @@ In this tutorial will first (and mainly) focus on using the column guides. Towar
 
 ## Some typical column layouts
 
+![](column-guides-wireframe.png) ![](column-guides-wireframe-preview.png)
+
 TODO: add screenshot and / or picture of column layouts.
 
 ## Basic principles
